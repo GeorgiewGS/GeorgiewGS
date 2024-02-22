@@ -1,0 +1,4 @@
+function EchoType(params) {
+    
+}
+EchoType()
